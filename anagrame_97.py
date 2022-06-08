@@ -17,4 +17,3 @@ if __name__ == '__main__':
     cuv1 = "rutina"
     cuv2 = "unitar"
     print(ex_97(cuv1, cuv2))
-    asd = 0

@@ -10,10 +10,10 @@ def ex_35(lista, n):
 
 
 if __name__ == '__main__':
-    a = True
-    while a:
+    a = False
+    while a is False:
         n = int(input("n="))
-        if n > 0 and n <= 100:
+        if n <= 0 or n >= 100:
             a = False
         else:
             a = True
