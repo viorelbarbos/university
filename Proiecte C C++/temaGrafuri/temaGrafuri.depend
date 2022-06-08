@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649317989 source:c:\users\viore\desktop\proiecte c\temagrafuri\main.cpp
+	<iostream>
+	<fstream>
+
